@@ -1,16 +1,21 @@
-## Hi there 👋
+<h2>Yiğit <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Bayrak8.gif" width="30"></h2>
+<img align='right' src="https://github.com/yigitboi07.png" width="230">
+<p><em>İtfaiyecilik Mentalitesi & yakında kendisi
+</br><a href="https://anticheat.ac">anticheat.ac</a> (Ocean Anticheat) bünyesinde Yönetici (Admin)
+</br><b>TürkSMP</b> sunucusunda Aktif Geliştirici (CanvasMC altyapı uyarlayıcısı & screenshare uzmanı)
+</em></p>
 
-<!--
-**yigitboi07/yigitboi07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Discord](https://img.shields.io/badge/Discord-yigitboi07-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yigitboi07) [![GitHub](https://img.shields.io/badge/GitHub-yigitboi07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yigitboi07)
 
-Here are some ideas to get you started:
+### Bilinen Teknolojiler
+- Programlama ve Betik Dilleri
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+- İşletim Sistemleri ve Altyapı
+
+> ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Minecraft](https://img.shields.io/badge/Minecraft_Altyapısı-32CD32?style=for-the-badge&logo=minecraft&logoColor=white)
+
+### Hedefler ve Çalışmalar
+> *TürkSMP ve CanvasMC altyapı optimizasyonları ile hilesiz ve adil bir oyun deneyimi sağlamak; anticheat.ac çatısı altında aktif güvenlik ve analiz çözümleri üretmek.*
+### İstatistikler
+![Stats](https://github-readme-stats.vercel.app/api?username=yigitboi07&show_icons=true&theme=transparent&locale=tr)
