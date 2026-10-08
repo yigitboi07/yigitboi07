@@ -1,8 +1,8 @@
 <h2>Yiğit <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Bayrak8.gif" width="30"></h2>
-<img align='right' src="https://github.com/yigitboi07.png" width="230">
-<p><em>İtfaiyecilik Mentalitesi & yakında kendisi
+<img align='right' src="https://cdn.discordapp.com/channel-icons/1514360914885742664/d8815e92718049868d067c6826f3ef56.webp?size=1024" width="230">
+<p><em>İtfaiyeci Mentalitesi & yakında kendisi
 </br><a href="https://anticheat.ac">anticheat.ac</a> (Ocean Anticheat) bünyesinde Yönetici (Admin)
-</br><b>TürkSMP</b> sunucusunda Aktif Geliştirici (CanvasMC altyapı uyarlayıcısı & screenshare uzmanı)
+</br><b>TürkSMP</b> sunucusunda Aktif Geliştirici (Baş Admin & Motor Geliştiricisi)
 </em></p>
 
 [![Discord](https://img.shields.io/badge/Discord-yigitboi07-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yigitboi07) [![GitHub](https://img.shields.io/badge/GitHub-yigitboi07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yigitboi07)
@@ -16,6 +16,6 @@
 > ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Minecraft](https://img.shields.io/badge/Minecraft_Altyapısı-32CD32?style=for-the-badge&logo=minecraft&logoColor=white)
 
 ### Hedefler ve Çalışmalar
-> *TürkSMP ve CanvasMC altyapı optimizasyonları ile hilesiz ve adil bir oyun deneyimi sağlamak; anticheat.ac çatısı altında aktif güvenlik ve analiz çözümleri üretmek.*
+> *TürkSMP ve CanvasMC altyapı optimizasyonları ile hilesiz ve adil ve eğlenceli özel bir oyun deneyimi sağlamak; anticheat.ac çatısı altında aktif güvenlik ve analiz çözümleri üretmek ve İtfaiyecilik hedefine ulaşmak*
 ### İstatistikler
 ![Stats](https://github-readme-stats.vercel.app/api?username=yigitboi07&show_icons=true&theme=transparent&locale=tr)
