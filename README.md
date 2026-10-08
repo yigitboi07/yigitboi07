@@ -17,5 +17,3 @@
 
 ### Hedefler ve Çalışmalar
 > *TürkSMP ve CanvasMC altyapı optimizasyonları ile hilesiz ve adil ve eğlenceli özel bir oyun deneyimi sağlamak; anticheat.ac çatısı altında aktif güvenlik ve analiz çözümleri üretmek ve İtfaiyecilik hedefine ulaşmak*
-### İstatistikler
-![Stats](https://github-readme-stats.vercel.app/api?username=yigitboi07&show_icons=true&theme=transparent&locale=tr)
